@@ -1,0 +1,9 @@
+.list {
+  padding: 0;
+}
+
+.no-found {
+  color: white;
+  font-size: 2rem;
+  text-align: center;
+}
